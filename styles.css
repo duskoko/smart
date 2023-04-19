@@ -1,3 +1,7 @@
 body {
   background-color: aqua;
 }
+p {
+  color: darkblue;
+  font-size: 44px;
+}
